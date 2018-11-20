@@ -1,0 +1,16 @@
+{
+    "name": "steven/shadow-interface",
+    "description": "interface usage in poo php by steven stynet",
+    "authors": [
+        {
+            "name": "Steven Ngesera",
+            "email": "muhngesteven@gmail.com"
+        }
+    ],
+    "autoload": {
+       "psr-4": {
+           "Steven\\": "Steven\\Shadow"
+       }
+    },
+    "require": {}
+}
